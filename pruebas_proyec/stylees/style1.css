@@ -1,0 +1,33 @@
+#formulario1{
+	margin: 35%;
+    margin-top: 8%;
+}
+
+#nom{
+	width: 37%;
+    height: 33px;
+}
+
+#app{
+	width: 37%;
+    height: 33px;
+}
+
+#apm{
+	width: 37%;
+    height: 33px;
+}
+
+#tel{
+	width: 37%;
+    height: 33px;
+}
+
+#apodo{
+	width: 37%;
+    height: 33px;	
+}
+
+#create_user{
+	width: 37%; 
+}
