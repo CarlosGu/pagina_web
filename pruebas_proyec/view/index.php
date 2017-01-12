@@ -39,9 +39,9 @@
     	<div>
       	<div class="collapse navbar-collapse" id="myNavbar">
         	<ul class="nav navbar-nav">
-          		<li><a href="#section1">Section 1</a></li>
-          		<li><a href="#section2">Section 2</a></li>
-          		<li><a href="#section3">Section 3</a></li>
+          		<li><a href="#section1">Home</a></li>
+          		<li><a href="#section2">About</a></li>
+          		<li><a href="#section3">Contact</a></li>
           		<li class="dropdown">
           			<a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
             		<ul class="dropdown-menu">
@@ -57,17 +57,17 @@
 	</nav>    
 
 	<div id="section1" class="container-fluid">
-  		<h1>Section 1</h1>
+  		<h1></h1>
   		<p></p>
   		<p></p>
 	</div>
 	<div id="section2" class="container-fluid">
-  		<h1>Section 2</h1>
+  		<h1></h1>
   		<p></p>
   		<p></p>
 	</div>
 	<div id="section3" class="container-fluid">
-  		<h1>Section 3</h1>
+  		<h1></h1>
   		<p></p>
   		<p></p>
 	</div>
